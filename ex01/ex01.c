@@ -5,8 +5,9 @@
 
 
 //This is the function signature for main()
-//Main will return an int
-//Main takes two arguments, an int called arc, and an array of strings called argv
+//main() will return an int
+//main() takes two arguments, an int called arc, and an array of strings called argv
+//argc represeents the number of arguments, or strings, saved in argv
 //The first string in argv is always the name of the program we're running
 int main(int argc, char* argv[]) {
 
